@@ -1,0 +1,45 @@
+{
+    "room": "Music & Shit",
+    "author": "AkaMagician",
+    "icon": "http://i.imgur.com/BmbCwK2.png",
+    "css": null,
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": false,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": null,
+        "ambassador": null,
+        "host": "#FAEBD7",
+        "cohost": "#FAEBD7",
+        "manager": "#FAEBD7",
+        "bouncer": "#FAEBD7",
+        "rdj": "#C0C0C0",
+        "subscriber": "#708090",
+        "silversubscriber": "#696969",
+        "friend": null,
+        "user": "#86cdf0"
+    },
+    "images": {
+        "background": "http://i.imgur.com/GNb5FWX.png",
+        "playback": null,
+        "admin": null,
+        "ambassador": null,
+        "host": "http://i.imgur.com/cCi09VN.png",
+        "cohost": "http://i.imgur.com/5R4v4iK.png",
+        "manager": "http://i.imgur.com/T7J508U.png",
+        "bouncer": "http://i.imgur.com/yS0meRQ.png",
+        "rdj": "http://i.imgur.com/IhHvOPH.png",
+        "subscriber": null,
+        "silversubscriber": null
+    },
+    "emotes": {
+    	"emote_name": null
+    }
+}
